@@ -50,4 +50,4 @@ I work with **.NET, C#, Python, PostgreSQL, MSSQL, RabbitMQ, Docker, and web tec
 ![](https://github-profile-trophy.vercel.app/?username=YourGitHubUser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Waving Footer -->
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=Welcome+to+the+Cyber+Realm!&section=footer&fontColor=00FF9F)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=Welcome+to+the+my+GitHub!&section=footer&fontColor=00FF9F)
