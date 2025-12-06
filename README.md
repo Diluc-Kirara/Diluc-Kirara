@@ -27,15 +27,6 @@ I work with **.NET, C#, Python, PostgreSQL, MSSQL, RabbitMQ, Docker, and web tec
 
 ---
 
-## 🔥 Projects
-- **[Gitlytics](https://github.com/YourGitHubUser/Gitlytics)** – Full-stack app analyzing GitHub data (Flask, React, PostgreSQL, Docker).  
-- **[Simple Paintball](https://github.com/YourGitHubUser/SimplePaintball)** – Minecraft plugin in Java, 2K+ downloads.  
-- **[Auth & Product APIs](https://github.com/YourGitHubUser)** – Secure REST APIs with .NET, JWT, PostgreSQL/MSSQL, RabbitMQ, Docker.
-
-![Code GIF](https://media.giphy.com/media/l3vR3sQQO7r6zHn7W/giphy.gif)
-
----
-
 ## 📫 Contact
 - Email: [This is my email](mailto:xamdamovalobar38@gmail.com)  
 - Telegram: [Telegram????](https://t.me/Blacksp30)  
