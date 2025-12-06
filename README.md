@@ -2,9 +2,12 @@
 
 ---
 
-## 💻 About Me
-Hi! I'm **Temurbek Mansurov** – a passionate software developer skilled in **.NET, Python, C#, Java, PostgreSQL, MSSQL, Docker, RabbitMQ, and Web Development**.  
-I love building full-stack applications, APIs, and exploring new technologies.  
+## ⚡ About Me
+Hi! I'm **Temurbek Mansurov** – a software developer passionate about **.NET, Python, C#, Java, PostgreSQL, MSSQL, Docker, RabbitMQ, and Web Development**.  
+
+I love building **APIs, microservices, and full-stack apps** with modern tech.  
+
+![Glitch Effect](https://c.tenor.com/5FzrsjQhWnIAAAAC/glitch-coding.gif)
 
 ---
 
@@ -22,7 +25,7 @@ I love building full-stack applications, APIs, and exploring new technologies.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - Email: [your.email@example.com](mailto:your.email@example.com)  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - Telegram: [@yourtelegram](https://t.me/yourtelegram)  
@@ -31,3 +34,4 @@ I love building full-stack applications, APIs, and exploring new technologies.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUser&layout=compact&theme=dark)
+
