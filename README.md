@@ -2,7 +2,7 @@
   <img src="https://fontmeme.com/permalink/250604/309820a1fbed6f1adeae4ae982dae66e.png" alt="pixel-fonts" border="0">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=600&lines=Hello,+I'm+Temurbek+Mansurov;Cyberpunk+Developer+|+Hacker+Vibes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=600&lines=Hello,+I'm+Temurbek+Mansurov;IT+Developer+|+Hacker+Vibes)](https://git.io/typing-svg)
 
 ---
 
