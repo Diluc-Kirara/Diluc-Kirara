@@ -22,15 +22,6 @@ I love building full-stack applications, APIs, and exploring new technologies.
 
 ---
 
-## 🔥 My Projects
-Here are some of my key projects:
-
-- **[Gitlytics](https://github.com/YourGitHubUser/Gitlytics)** – Full-stack web app for analyzing GitHub collaboration using Flask, React, PostgreSQL, and Docker.  
-- **[Simple Paintball](https://github.com/YourGitHubUser/SimplePaintball)** – Minecraft plugin developed in Java, published with 2K+ downloads.  
-- **[Authentication & Product APIs](https://github.com/YourGitHubUser)** – REST APIs using .NET, JWT, PostgreSQL/MSSQL, RabbitMQ, and Docker.  
-
----
-
 ## 📫 Contact Me
 - Email: [your.email@example.com](mailto:your.email@example.com)  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
