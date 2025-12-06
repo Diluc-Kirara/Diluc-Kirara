@@ -37,8 +37,8 @@ I work with **.NET, C#, Python, PostgreSQL, MSSQL, RabbitMQ, Docker, and web tec
 ---
 
 ## 📫 Contact
-- Email: [your.email@example.com](mailto:xamdamovalobar38@gmail.com)  
-- Telegram: [@yourtelegram](https://t.me/Blacksp30)  
+- Email: [This is my email](mailto:xamdamovalobar38@gmail.com)  
+- Telegram: [Telegram????](https://t.me/Blacksp30)  
 
 ---
 
