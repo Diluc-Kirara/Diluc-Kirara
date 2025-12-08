@@ -10,8 +10,7 @@
 I’m **Temurbek Mansurov**, a backend and full-stack developer with a taste for **cyberpunk & hacker-style coding**.  
 I work with **.NET, C#, Python, PostgreSQL, MSSQL, RabbitMQ, Docker, and web technologies** to build secure, scalable applications.
 
-<video src="[demo.mp4](https://github.com/Diluc-Kirara/Diluc-Kirara/blob/main/animation.gif.mp4)" controls width="600"></video>
-
+![Animation](https://github.com/Diluc-Kirara/Diluc-Kirara/blob/main/animation.gif)
 
 ---
 
