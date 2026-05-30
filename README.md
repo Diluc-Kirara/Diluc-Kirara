@@ -35,14 +35,31 @@ I work with modern backend stacks and enjoy low-level architecture, APIs, and di
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ SYSTEM INSERT
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diluc-Kirara&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diluc-Kirara&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diluc-Kirara&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diluc-Kirara&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9f&height=120&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontColor=00FF9F&fontSize=30" />
+</p>
+
+<p align="center">
+  <code>root@github:~$ initializing developer profile...</code><br>
+  <code>root@github:~$ loading stats module [OK]</code><br>
+  <code>root@github:~$ identity: Diluc-Kirara</code><br>
+  <code>root@github:~$ status: ONLINE</code>
 </p>
 
 ---
