@@ -38,7 +38,7 @@ I work with modern backend stacks and enjoy low-level architecture, APIs, and di
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diluc-Kirara&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diluc-Kirara&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
