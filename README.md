@@ -49,6 +49,10 @@ Working with distributed architectures, APIs and backend infrastructure.
 </p>
 
 ---
+## 📫 Contact
+
+- 📩 Email: [This is my email](mailto:xamdamovalobar38@gmail.com) 
+- ✈️ Telegram: [Black.](https://t.me/Blacksp30)  
 
 ## LIVE TERMINAL
 
@@ -59,6 +63,7 @@ root@github:~$ connecting databases [OK]
 root@github:~$ optimizing APIs [RUNNING]
 root@github:~$ compiling projects [DONE]
 root@github:~$ status: FULLY OPERATIONAL
+```
 
 backend ONLINE
 brain OVERCLOCKED
