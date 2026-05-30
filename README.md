@@ -3,25 +3,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%7C+.NET+%7C+Python+Engineer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=00FF9F&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZING...;BACKEND+ENGINEER+ONLINE;C%23+%7C+.NET+%7C+PYTHON;BUILDING+SCALABLE+SYSTEMS;ACCESS+GRANTED" />
 </p>
 
 ---
 
-## 🧠 About Me
+## SYSTEM CORE
 
-Backend Developer focused on building **scalable, secure and high-performance systems**.  
-I work with modern backend stacks and enjoy low-level architecture, APIs, and distributed systems.
+Backend Developer focused on scalable, secure and high-performance systems.  
+Working with distributed architectures, APIs and backend infrastructure.
 
-- ⚙️ Backend: **.NET / C# / FastAPI**
-- 🧩 Databases: **PostgreSQL / MSSQL**
-- 🔌 Messaging: **RabbitMQ**
-- 🐳 DevOps: **Docker**
-- 🌐 Frontend: **React (basic/full integration)**
+- Backend .NET C# FastAPI
+- Databases PostgreSQL MSSQL
+- Messaging RabbitMQ
+- DevOps Docker CI CD
+- Frontend React integration
 
 ---
 
-## 🛠 Tech Stack
+## TECH STACK MATRIX
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -31,11 +31,10 @@ I work with modern backend stacks and enjoy low-level architecture, APIs, and di
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## ⚡ SYSTEM INSERT
+## SYSTEM TELEMETRY
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diluc-Kirara&show_icons=true&theme=radical&cache_seconds=86400" />
@@ -44,36 +43,25 @@ I work with modern backend stacks and enjoy low-level architecture, APIs, and di
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diluc-Kirara&layout=compact&theme=radical" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diluc-Kirara&theme=radical" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9f&height=120&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontColor=00FF9F&fontSize=30" />
-</p>
-
-<p align="center">
-  <code>root@github:~$ initializing developer profile...</code><br>
-  <code>root@github:~$ loading stats module [OK]</code><br>
-  <code>root@github:~$ identity: Diluc-Kirara</code><br>
-  <code>root@github:~$ status: ONLINE</code>
-</p>
-
----
-
-## 📫 Contact
-
-- 📩 Email: [This is my email](mailto:xamdamovalobar38@gmail.com) 
-- ✈️ Telegram: [Black.](https://t.me/Blacksp30)  
-
----
-
-## ⚡ System Status
+## LIVE TERMINAL
 
 ```bash
-> backend: ONLINE
-> brain: COMPILING IDEAS...
-> motivation: OVERCLOCKED
-> coffee: REQUIRED
+root@github:~$ initializing system core
+root@github:~$ loading backend modules [OK]
+root@github:~$ connecting databases [OK]
+root@github:~$ optimizing APIs [RUNNING]
+root@github:~$ compiling projects [DONE]
+root@github:~$ status: FULLY OPERATIONAL
+
+backend ONLINE
+brain OVERCLOCKED
+focus MAXIMUM
+coffee REQUIRED
+mission BUILD SCALE DEPLOY
