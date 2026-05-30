@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%7C+.NET+%7C+Python+Engineer;Building+Scalable+Systems;Cyberpunk+Coding+Style" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%7C+.NET+%7C+Python+Engineer;Building+Scalable+Systems" />
 </p>
 
 ---
