@@ -49,8 +49,8 @@ I work with modern backend stacks and enjoy low-level architecture, APIs, and di
 
 ## 📫 Contact
 
-- 📩 Email: xamdamovalobar38@gmail.com  
-- ✈️ Telegram: https://t.me/Blacksp30  
+- 📩 Email: [This is my email](mailto:xamdamovalobar38@gmail.com) 
+- ✈️ Telegram: [Black.](https://t.me/Blacksp30)  
 
 ---
 
